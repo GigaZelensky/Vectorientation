@@ -9,7 +9,8 @@
     "FallingBlockEntityRenderStateMixin",
     "FallingBlockRendererMixin",
     "TntEntityRenderStateMixin",
-    "TntEntityRendererMixin"
+    "TntEntityRendererMixin",
+    "LivingEntityRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
