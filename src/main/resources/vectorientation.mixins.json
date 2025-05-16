@@ -3,13 +3,13 @@
   "minVersion": "0.8",
   "package": "vectorientation.mixin",
   "compatibilityLevel": "JAVA_8",
-  "mixins": [
-  ],
+  "mixins": [],
   "client": [
     "FallingBlockEntityRenderStateMixin",
     "FallingBlockRendererMixin",
     "TntEntityRenderStateMixin",
-    "TntEntityRendererMixin"
+    "TntEntityRendererMixin",
+    "LivingEntityRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
