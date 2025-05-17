@@ -1,2 +1,2 @@
 # Vectorientation
-A clientside minecraft mod for enhancing the visuals of falling blocks
+A clientside minecraft mod for enhancing the visuals of falling blocks and falling mobs
